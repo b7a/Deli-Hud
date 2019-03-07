@@ -94,9 +94,9 @@
 		"ypos"			"c-170"
 		"wide"			"314"
 		"tall"			"270"
-		"xpos_minmode"	"c-166"
+		"xpos_minmode"	"c-165"
 		"ypos_minmode"	"c15"
-		"wide_minmode"	"310"
+		"wide_minmode"	"307"
 		"tall_minmode"	"88"
 		
 		"ControlName"	"SectionedListPanel"
@@ -122,9 +122,9 @@
 		"ypos"			"c-170"
 		"wide"			"314"
 		"tall"			"270"
-		"xpos_minmode"	"c-166"
+		"xpos_minmode"	"c-165"
 		"ypos_minmode"	"c98"
-		"wide_minmode"	"310"
+		"wide_minmode"	"307"
 		"tall_minmode"	"84"
 		
 		"ControlName"	"SectionedListPanel"
