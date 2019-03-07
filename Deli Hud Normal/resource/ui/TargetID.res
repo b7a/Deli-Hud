@@ -63,19 +63,19 @@
 		"draw_corner_width"	  "0"	
 		"draw_corner_height"  "0"	
 	}
-	 "TargetBGshade"
-  {
-    "ControlName"         "ImagePanel"
-    "fieldName"           "TargetBGshade"
-    "xpos"                "0"
-    "ypos"                "9"
-    "zpos"                "-1"
-		"wide"	          		"252"
-    "tall"                "14"
-    "visible"             "1"
-    "enabled"             "1"
-    "fillcolor"           "0 0 0 100"
-  }
+	"TargetBGshade"
+	{
+		"ControlName"			"ImagePanel"
+		"fieldName"			"TargetBGshade"
+		"xpos"				"0"
+		"ypos"				"9"
+		"zpos"				"-1"
+		"wide"				"252"
+		"tall"				"14"
+		"visible"			"1"
+		"enabled"			"1"
+		"fillcolor"			"0 0 0 100"
+	}
 	"TargetNameLabel"
 	{	
 		"ControlName"		    "Label"
@@ -132,6 +132,21 @@
 		"HealthDeathWarningColor"	"HUDDeathWarning"
 		"TextColor"		            "HudOffWhite"
 	}
+	
+	"AmmoIcon"
+	{
+		"ControlName"				"ImagePanel"
+		"fieldName"					"AmmoIcon"
+		"xpos"						"38"
+		"ypos"						"0"
+		"zpos"						"12"
+		"wide"						"8"
+		"tall"						"8"
+		"visible"					"0"
+		"enabled"					"1"
+		"image"						"../hud/leaderboard_class_heavy"
+		"scaleImage"				"1"
+    	}
 
 	"KillAnchor"
 	{
