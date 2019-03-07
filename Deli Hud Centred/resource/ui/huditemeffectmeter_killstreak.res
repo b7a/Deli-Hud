@@ -5,8 +5,8 @@
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"c-175"	[$WIN32]
-		"ypos"			"c128"	[$WIN32]
+		"xpos"			"c-162"	[$WIN32]
+		"ypos"			"c28"	[$WIN32]
 		"wide"			"100"
 		"tall"			"50"
 		"MeterFG"		"White"
@@ -50,7 +50,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"M0refont18"
+		"font"					"M0refont16"
 		"fgcolor_override"      "255 255 255 255"
 	}
 	
@@ -72,7 +72,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"M0refont18"
+		"font"					"M0refont16"
 		"fgcolor_override"      "0 0 0 255"
 	}
 
@@ -101,10 +101,10 @@
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCount1"
 		"xpos"					"77"
-		"ypos"					"25"
+		"ypos"					"27"
 		"zpos"					"2"
 		"wide"					"40"
-		"tall"					"20"	
+		"tall"					"15"	
 		"pinCorner"				"2"
 		"visible"				"1"
 		"enabled"				"1"
@@ -113,7 +113,7 @@
 		"textAlignment"			"left"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"M0refont18"
+		"font"					"M0refont16"
 		"fgcolor_override"      "255 255 255 255"
 	}
 	
@@ -122,10 +122,10 @@
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCount2"
 		"xpos"					"78"
-		"ypos"					"26"
+		"ypos"					"28"
 		"zpos"					"2"
 		"wide"					"40"
-		"tall"					"20"	
+		"tall"					"15"	
 		"pinCorner"				"2"
 		"visible"				"1"
 		"enabled"				"1"
@@ -134,7 +134,7 @@
 		"textAlignment"			"left"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"M0refont18"
+		"font"					"M0refont16"
 		"fgcolor_override"      "0 0 0 255"
 	}
 }
