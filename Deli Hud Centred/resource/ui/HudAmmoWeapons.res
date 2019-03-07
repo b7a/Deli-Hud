@@ -74,7 +74,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInReserve"
-		"font"			"m0refont17"
+		"font"			"m0refont18"
 		"fgcolor"		"255 255 255 255"
 		"xpos"			"80"
 		"ypos"			"70"
@@ -90,7 +90,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInReserveshadow"
-		"font"			"m0refont17"
+		"font"			"m0refont18"
 		"fgcolor"		"0 0 0 255"
 		"xpos"			"81"
 		"ypos"			"71"
