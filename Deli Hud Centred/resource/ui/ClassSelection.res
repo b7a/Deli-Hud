@@ -1226,4 +1226,11 @@
 		"enabled"		"0"
 		"tabPosition"	"0"
 	}
+	
+	"ClassTipsPanel"
+	{
+		"ControlName"	"CTFClassTipsPanel"
+		"fieldName"		"ClassTipsPanel"
+		"xpos"			"9999"
+	}
 }
