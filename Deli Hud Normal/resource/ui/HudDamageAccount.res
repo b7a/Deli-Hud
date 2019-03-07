@@ -19,7 +19,7 @@
 		
 		"ControlName"	"ceXLabel"
 		"fieldName"		"DamageAccountValue"
-		"xpos"			"c-200"
+		"xpos"			"c-192"
 		"ypos"			"c80"
 		"zpos"			"2"
 		"wide"			"150"
@@ -36,7 +36,7 @@
 		
 		"ControlName"	"ceXLabel"
 		"fieldName"		"DamageAccountValueShadow"
-		"xpos"			"c-199"
+		"xpos"			"c-191"
 		"ypos"			"c81"
 		"zpos"			"2"
 		"wide"			"150"
