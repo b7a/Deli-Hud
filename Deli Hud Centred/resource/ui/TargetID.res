@@ -133,6 +133,21 @@
 		"TextColor"		            "HudOffWhite"
 	}
 
+	"AmmoIcon"
+	{
+		"ControlName"				"ImagePanel"
+		"fieldName"					"AmmoIcon"
+		"xpos"						"38"
+		"ypos"						"0"
+		"zpos"						"12"
+		"wide"						"8"
+		"tall"						"8"
+		"visible"					"0"
+		"enabled"					"1"
+		"image"						"../hud/leaderboard_class_heavy"
+		"scaleImage"				"1"
+    	}
+
 	"KillAnchor"
 	{
 		"ControlName"				"EditablePanel"
