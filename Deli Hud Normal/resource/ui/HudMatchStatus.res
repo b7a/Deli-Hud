@@ -300,7 +300,7 @@
 			"fieldName"		"TimePanelValue"
 			"font"			"M0refont16"
 			"fgcolor"		"255 255 255 255"
-			"xpos"			"33"
+			"xpos"			"34"
 			"ypos"			"-8"
 			"zpos"			"3"
 			"wide"			"40"
