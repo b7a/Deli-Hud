@@ -1,6 +1,6 @@
 # Deli Hud
 
-Deli HUD updated by Hypnotize, further improved by me.
+Deli HUD updated by Hypnotize, further improved by bLa.
 
 <a>LINKS</a>
 ====
