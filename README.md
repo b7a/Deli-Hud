@@ -1,5 +1,6 @@
 # Deli Hud
 
+Deli HUD updated by Hypnotize, further improved by me.
 
 <a>LINKS</a>
 ====
