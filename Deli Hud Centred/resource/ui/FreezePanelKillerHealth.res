@@ -68,13 +68,13 @@
 		"enabled"		"1"
 		"textAlignment"	"center"	
 		"labeltext"		"%Health%"
-		"font"			"M0refont24"
+		"font"			"M0refont22"
 		"fgcolor_override"  "255 255 255 255"	
 	}	
 	"PlayerStatusHealthValueShadow"
 	{
 		"ControlName"	"Label"
-		"fieldName"		"PlayerStatusHealthValue"
+		"fieldName"		"PlayerStatusHealthValueshadow"
 		"xpos"			"1"
 		"ypos"			"1"
 		"zpos"			"20"
@@ -84,7 +84,7 @@
 		"enabled"		"1"
 		"textAlignment"	"center"	
 		"labeltext"		"%Health%"
-		"font"			"M0refont24"
+		"font"			"M0refont22"
 		"fgcolor_override"  "0 0 0 255"	
 	}	
 }
