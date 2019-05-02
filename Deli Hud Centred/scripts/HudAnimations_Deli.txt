@@ -18,7 +18,6 @@ event HudHealthBonusPulse
 	Animate PlayerStatusHealthValueshadowExtra 	FgColor 	"0 0 0 255" 				Accel 	0.0 0.0
 	
 	RunEvent HudHealthBonusPulseLoop			0.4
-	
 }
 
 event HudHealthBonusPulseLoop
